@@ -8,6 +8,7 @@ body{
     justify-content: center; */
     /* padding: 5px 200px; */
     margin: 0px 300px 0px 0px;
+    /* display: flex; */
     align-items: center;
     width: 800px;
     position: relative;
@@ -16,7 +17,9 @@ body{
 .shifter2{
     margin-left: 7%;
 }
-
+.navbar{
+    width: 100vw;
+}
 #title{
     background-color: rgb(179, 238, 238);
     border: 2px solid black;
