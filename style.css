@@ -32,7 +32,8 @@ body{
     left: 50px; */
 }
 .bottom-container{
+    margin: 0;padding: 0;
   color: white;
   text-align: center;
-
+    height: 10px;
 }
