@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(179, 238, 238);
+    display: block;
+}
+.shifter{
+    /* margin:auto; */
+    /* display: flex;
+    justify-content: center; */
+    /* padding: 5px 200px; */
+    margin: 0px 300px 0px 0px;
+    align-items: center;
+    width: 800px;
+    position: relative;
+    left: 7%;
+}
+.shifter2{
+    margin-left: 7%;
+}
+
+#title{
+    background-color: rgb(179, 238, 238);
+    border: 2px solid black;
+    width: 55%;
+    /* position: relative;
+    left: 50px; */
+}    
+#description{
+    background-color: rgb(179, 238, 238);
+    border: 2px solid black;
+    width: 55%;
+    /* position: relative;
+    left: 50px; */
+}
